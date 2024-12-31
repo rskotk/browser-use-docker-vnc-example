@@ -1,0 +1,7 @@
+.env
+__pycache__/
+browser-use-env/
+*.log
+*.pid
+
+
